@@ -1,0 +1,17 @@
+PIL
+__future__
+anndata
+ast
+copy
+docx
+matplotlib
+numpy
+openpyxl
+pandas
+pptx
+psutil
+requests
+scipy
+seaborn
+time
+xml

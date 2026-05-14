@@ -1,0 +1,39 @@
+# Raw and intermediate data
+data/
+raw/
+work/
+results/
+*.sumstats
+*.sumstats.gz
+*.txt.gz
+*.tsv.gz
+*.csv.gz
+*.bed
+*.bim
+*.fam
+*.bgen
+*.pgen
+*.pvar
+*.psam
+*.rds
+*.RData
+*.h5ad
+*.mtx
+
+# Generated manuscript artifacts
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+
+# Local caches
+__pycache__/
+.Rhistory
+.RData
+.DS_Store

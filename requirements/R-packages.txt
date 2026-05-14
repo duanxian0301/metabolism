@@ -1,0 +1,15 @@
+AnnotationDbi
+GenomicSEM
+Matrix
+Seurat
+clusterProfiler
+coloc
+data.table
+ggplot2
+lavaan
+org.Hs.eg.db
+psych
+readxl
+scPagwas
+scTenifoldKnk
+scTenifoldNet
